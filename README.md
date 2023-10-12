@@ -1,4 +1,4 @@
-# EtherCast - A Web-3 Based E-Voting Project
+# EtherCast - A Blockchain-based E-Voting System
       
 ## Overview
 
